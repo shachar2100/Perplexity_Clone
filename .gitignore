@@ -1,0 +1,11 @@
+# Sensitive environment variables
+# Do not commit this file to version control
+backend/.env
+
+# User-specific query history data
+# This can get large and may contain private information
+backend/query_history/
+
+# Backend node dependencies
+# These should be installed via `npm install` on the target machine
+backend/node_modules/ 
