@@ -20,7 +20,7 @@ A complete AI-powered search engine that mimics Perplexity's interface and funct
 - 🔗 **Source List** - Complete list of sources with external links
 - ❓ **Follow-up Questions** - Ask additional questions after getting results
 - ⏳ **Loading States** - Beautiful loading spinner during API calls
-- 📱 **Responsive Design** - Works on desktop, tablet, and mobile
+
 
 ## 📁 Project Structure
 
@@ -213,22 +213,5 @@ npm test
 }
 ```
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## 📄 License
-
-This project is for educational purposes. Please respect the terms of service for OpenAI and SerpAPI.
-
-## 🙏 Acknowledgments
-
-- OpenAI for GPT-3.5-turbo API
-- SerpAPI for search functionality
-- Perplexity for inspiration
-- React and Node.js communities
 
