@@ -87,7 +87,7 @@ Perplexity_Clone/
    ```
 
 4. **Access the application:**
-   - Frontend: http://localhost:3000
+   - Frontend: http://localhost:3001
    - Backend API: http://localhost:3000/api
 
 ## 🔧 Configuration
